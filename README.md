@@ -56,17 +56,23 @@ transform_debug_log.sh 村番号
 
 # サンプル説明
 
-## debug/sample/153535/\*.html
+## sample/153535/\*.html
 
 http://jinrou.dip.jp/~jinrou/kako/153535.html 【モバマス】年の瀬村 より、共有者のログ。
 
 2日目のグレランで再投票のあるもの。 #56, #86, #98 あたりの問題に引っかかる。
 
-## debug/sample/153538/\*.html
+## sample/153538/\*.html
 
 http://jinrou.dip.jp/~jinrou/kako/153538.html 【モバマス】今のはメラゾーマではない・・村 より、狂人のログ。
 
 CN「CV:若本規夫」「e+」の2名が、 #104 の問題に引っかかる。
+
+## sample/153535/\*.html
+
+http://jinrou.dip.jp/~jinrou/kako/153584.html 【モバマス】下手食いキリギリス村 より、村人のログ。
+
+2日目のグレランで再投票のあるもの。 #115 の問題を発見。
 
 # （参考）サンプル以外に確認しておきたいログ
 
