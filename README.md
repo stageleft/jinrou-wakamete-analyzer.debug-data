@@ -32,7 +32,7 @@ Japanese only, because Wakamete Server and Jinrou-Wakamete-Analyzer can support 
 </body>
 </html>
 ```   
-   サンプル： debug/sample/\*/\*.html   
+   サンプル： sample/\*/\*.html   
    注意点としては、form タグのファイル名を直すことと、最後の " を取り忘れないこと。   
    整形・リネームしたファイルは、 sample/ 以下に置くこと。理由は manifest.json を参照。
 
