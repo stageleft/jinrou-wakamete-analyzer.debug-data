@@ -10,7 +10,7 @@ Japanese only, because Wakamete Server and Jinrou-Wakamete-Analyzer can support 
 
 わかめて鯖および、 Jinrou-Wakamete-Analyzer が日本語なので、日本語以外対応しません。あしからず。
 
-# 使い方：ログの作成
+# 使い方：ログの作成（手動）
 
 1. 村に参加する。
 1. 村終了後、ログを取得する。   
@@ -35,6 +35,19 @@ Japanese only, because Wakamete Server and Jinrou-Wakamete-Analyzer can support 
    サンプル： debug/sample/\*/\*.html   
    注意点としては、form タグのファイル名を直すことと、最後の " を取り忘れないこと。   
    整形・リネームしたファイルは、 sample/ 以下に置くこと。理由は manifest.json を参照。
+
+# 使い方：ログの作成（半自動）
+
+基本は手動と同じだが、ツールを用いて楽をすることができる。
+1. ログの取得時、 VSCode の bash Terminal から、以下のコマンドを使うと0byteのファイルができるので楽ができる。   
+```
+create_org_village_template.sh 村番号
+```
+1. ログの整形時、VSCode の bash Terminal から、以下のコマンドを用いると自動で変換される。   
+   ただし、作ったログは Shift-JISであるべきこと。また、作成後のファイルはutf-8となるためまるっきり村と同じではないことに留意すること。   
+```
+transform_debug_log.sh 村番号
+```
 
 # 使い方：ログの使用
 
