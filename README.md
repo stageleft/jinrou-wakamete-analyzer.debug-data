@@ -74,6 +74,12 @@ http://jinrou.dip.jp/~jinrou/kako/153584.html 【モバマス】下手食いキ�
 
 2日目のグレランで再投票のあるもの。 #115 の問題を発見。
 
+## sample/153535/\*.html
+
+http://jinrou.dip.jp/~jinrou/kako/154385.html 【モバマス】試験運用17人村 より、共有者のログ。
+
+CN「やよい勝率100%」が、 #124 の問題に引っかかる。
+
 # （参考）サンプル以外に確認しておきたいログ （配役関係）
 
 * http://jinrou.dip.jp/~jinrou/kako/49118.html それでも猫又大狼子狐村   
