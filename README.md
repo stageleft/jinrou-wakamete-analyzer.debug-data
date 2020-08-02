@@ -88,7 +88,7 @@ CN「やよい勝率100%」が、 #124 の問題に引っかかる。
   大狼入り。
 * http://jinrou.dip.jp/~jinrou/kako/133828.html 大狼子狐猫又ダンガンロンパRP村   
   子狐入り。
-* http://jinrou.dip.jp/~jinrou/kako/153332.html ファミ通の攻略本村
+* http://jinrou.dip.jp/~jinrou/kako/153332.html ファミ通の攻略本村   
   猫又の呪いあり。 #58 の問題確認用。
 * http://jinrou.dip.jp/~jinrou/kako/153253.html 燐寸の蜃気楼村
   死神手帳入り。
@@ -97,7 +97,7 @@ CN「やよい勝率100%」が、 #124 の問題に引っかかる。
 
 * http://jinrou.dip.jp/~jinrou/kako/153281.html 【モバマス】異世界なろう系さいつよ主人公村
   CN「炎上夢見.net」が、 #104 の問題に引っかかる。
-* http://jinrou.dip.jp/~jinrou/kako/153538.html 【モバマス】今のはメラゾーマではない・・村 より、狂人のログ。
+* http://jinrou.dip.jp/~jinrou/kako/153538.html 【モバマス】今のはメラゾーマではない・・村   
   CN「CV:若本規夫」「e+」の2名が、 #104 の問題に引っかかる。
 * http://jinrou.dip.jp/~jinrou/kako/153936.html 【モバマス】偽りの母性.大鹿の女神村
   CN「#PartyParrot」が、 #122 の問題に引っかかる。
