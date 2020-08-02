@@ -41,12 +41,12 @@ Japanese only, because Wakamete Server and Jinrou-Wakamete-Analyzer can support 
 基本は手動と同じだが、ツールを用いて楽をすることができる。
 1. ログの取得時、 VSCode の bash Terminal から、以下のコマンドを使うと0byteのファイルができるので楽ができる。   
 ```
-create_org_village_template.sh 村番号
+./create_org_village_template.sh 村番号
 ```
 1. ログの整形時、VSCode の bash Terminal から、以下のコマンドを用いると自動で変換される。   
    ただし、作ったログは Shift-JISであるべきこと。また、作成後のファイルはutf-8となるためまるっきり村と同じではないことに留意すること。   
 ```
-transform_debug_log.sh 村番号
+./transform_debug_log.sh 村番号
 ```
 
 # 使い方：ログの使用
@@ -74,7 +74,7 @@ http://jinrou.dip.jp/~jinrou/kako/153584.html 【モバマス】下手食いキ�
 
 2日目のグレランで再投票のあるもの。 #115 の問題を発見。
 
-# （参考）サンプル以外に確認しておきたいログ
+# （参考）サンプル以外に確認しておきたいログ （配役関係）
 
 * http://jinrou.dip.jp/~jinrou/kako/49118.html それでも猫又大狼子狐村   
   猫又復活がある。
@@ -82,9 +82,18 @@ http://jinrou.dip.jp/~jinrou/kako/153584.html 【モバマス】下手食いキ�
   大狼入り。
 * http://jinrou.dip.jp/~jinrou/kako/133828.html 大狼子狐猫又ダンガンロンパRP村   
   子狐入り。
-* http://jinrou.dip.jp/~jinrou/kako/153281.html 【モバマス】異世界なろう系さいつよ主人公村
-  CN「炎上夢見.net」が、 #104 の問題に引っかかる。
 * http://jinrou.dip.jp/~jinrou/kako/153332.html ファミ通の攻略本村
   猫又の呪いあり。 #58 の問題確認用。
 * http://jinrou.dip.jp/~jinrou/kako/153253.html 燐寸の蜃気楼村
   死神手帳入り。
+
+  # （参考）確認しておきたいログ （#104関係；サンプル分を含む）
+
+* http://jinrou.dip.jp/~jinrou/kako/153281.html 【モバマス】異世界なろう系さいつよ主人公村
+  CN「炎上夢見.net」が、 #104 の問題に引っかかる。
+* http://jinrou.dip.jp/~jinrou/kako/153538.html 【モバマス】今のはメラゾーマではない・・村 より、狂人のログ。
+  CN「CV:若本規夫」「e+」の2名が、 #104 の問題に引っかかる。
+* http://jinrou.dip.jp/~jinrou/kako/153936.html 【モバマス】偽りの母性.大鹿の女神村
+  CN「#PartyParrot」が、 #122 の問題に引っかかる。
+* http://jinrou.dip.jp/~jinrou/kako/154385.html 【モバマス】試験運用17人村
+  CN「やよい勝率100%」が、 #124 の問題に引っかかる。
