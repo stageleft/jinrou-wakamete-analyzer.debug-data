@@ -58,48 +58,48 @@ Japanese only, because Wakamete Server and Jinrou-Wakamete-Analyzer can support 
 
 ## sample/153535/\*.html
 
-http://jinrou.dip.jp/~jinrou/kako/153535.html 【モバマス】年の瀬村 より、共有者のログ。
+http://jinrou.aa0.netvolante.jp/~jinrou/kako/153535.html 【モバマス】年の瀬村 より、共有者のログ。
 
 2日目のグレランで再投票のあるもの。 #56, #86, #98 あたりの問題に引っかかる。
 
 ## sample/153538/\*.html
 
-http://jinrou.dip.jp/~jinrou/kako/153538.html 【モバマス】今のはメラゾーマではない・・村 より、狂人のログ。
+http://jinrou.aa0.netvolante.jp/~jinrou/kako/153538.html 【モバマス】今のはメラゾーマではない・・村 より、狂人のログ。
 
 CN「CV:若本規夫」「e+」の2名が、 #104 の問題に引っかかる。
 
 ## sample/153535/\*.html
 
-http://jinrou.dip.jp/~jinrou/kako/153584.html 【モバマス】下手食いキリギリス村 より、村人のログ。
+http://jinrou.aa0.netvolante.jp/~jinrou/kako/153584.html 【モバマス】下手食いキリギリス村 より、村人のログ。
 
 2日目のグレランで再投票のあるもの。 #115 の問題を発見。
 
 ## sample/153535/\*.html
 
-http://jinrou.dip.jp/~jinrou/kako/154385.html 【モバマス】試験運用17人村 より、共有者のログ。
+http://jinrou.aa0.netvolante.jp/~jinrou/kako/154385.html 【モバマス】試験運用17人村 より、共有者のログ。
 
 CN「やよい勝率100%」が、 #124 の問題に引っかかる。
 
 # （参考）サンプル以外に確認しておきたいログ （配役関係）
 
-* http://jinrou.dip.jp/~jinrou/kako/49118.html それでも猫又大狼子狐村   
+* http://jinrou.aa0.netvolante.jp/~jinrou/kako/49118.html それでも猫又大狼子狐村   
   猫又復活がある。
-* http://jinrou.dip.jp/~jinrou/kako/125849.html 【黒バスRP必須】春の大狼収穫村   
+* http://jinrou.aa0.netvolante.jp/~jinrou/kako/125849.html 【黒バスRP必須】春の大狼収穫村   
   大狼入り。
-* http://jinrou.dip.jp/~jinrou/kako/133828.html 大狼子狐猫又ダンガンロンパRP村   
+* http://jinrou.aa0.netvolante.jp/~jinrou/kako/133828.html 大狼子狐猫又ダンガンロンパRP村   
   子狐入り。
-* http://jinrou.dip.jp/~jinrou/kako/153332.html ファミ通の攻略本村   
+* http://jinrou.aa0.netvolante.jp/~jinrou/kako/153332.html ファミ通の攻略本村   
   猫又の呪いあり。 #58 の問題確認用。
-* http://jinrou.dip.jp/~jinrou/kako/153253.html 燐寸の蜃気楼村
+* http://jinrou.aa0.netvolante.jp/~jinrou/kako/153253.html 燐寸の蜃気楼村
   死神手帳入り。
 
   # （参考）確認しておきたいログ （#104関係；サンプル分を含む）
 
-* http://jinrou.dip.jp/~jinrou/kako/153281.html 【モバマス】異世界なろう系さいつよ主人公村
+* http://jinrou.aa0.netvolante.jp/~jinrou/kako/153281.html 【モバマス】異世界なろう系さいつよ主人公村
   CN「炎上夢見.net」が、 #104 の問題に引っかかる。
-* http://jinrou.dip.jp/~jinrou/kako/153538.html 【モバマス】今のはメラゾーマではない・・村   
+* http://jinrou.aa0.netvolante.jp/~jinrou/kako/153538.html 【モバマス】今のはメラゾーマではない・・村   
   CN「CV:若本規夫」「e+」の2名が、 #104 の問題に引っかかる。
-* http://jinrou.dip.jp/~jinrou/kako/153936.html 【モバマス】偽りの母性.大鹿の女神村
+* http://jinrou.aa0.netvolante.jp/~jinrou/kako/153936.html 【モバマス】偽りの母性.大鹿の女神村
   CN「#PartyParrot」が、 #122 の問題に引っかかる。
-* http://jinrou.dip.jp/~jinrou/kako/154385.html 【モバマス】試験運用17人村
+* http://jinrou.aa0.netvolante.jp/~jinrou/kako/154385.html 【モバマス】試験運用17人村
   CN「やよい勝率100%」が、 #124 の問題に引っかかる。
