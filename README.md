@@ -87,9 +87,9 @@ CN「やよい勝率100%」が、 #124 の問題に引っかかる。
 
 * [【モバマス】異世界なろう系さいつよ主人公村](http://jinrou.aa0.netvolante.jp/~jinrou/kako/153281.html)  
   CN「炎上夢見.net」が、 #104 の問題に引っかかる。
-* [【モバマス】今のはメラゾーマではない・・村](http://jinrou.aa0.netvolante.jp/~jinrou/kako/153538.html  
+* [【モバマス】今のはメラゾーマではない・・村](http://jinrou.aa0.netvolante.jp/~jinrou/kako/153538.html)  
   CN「CV:若本規夫」「e+」の2名が、 #104 の問題に引っかかる。
-* [【モバマス】偽りの母性.大鹿の女神村](http://jinrou.aa0.netvolante.jp/~jinrou/kako/153936.html  
+* [【モバマス】偽りの母性.大鹿の女神村](http://jinrou.aa0.netvolante.jp/~jinrou/kako/153936.html)  
   CN「#PartyParrot」が、 #122 の問題に引っかかる。
 * [【モバマス】試験運用17人村](http://jinrou.aa0.netvolante.jp/~jinrou/kako/154385.html)  
   CN「やよい勝率100%」が、 #124 の問題に引っかかる。
@@ -98,7 +98,7 @@ CN「やよい勝率100%」が、 #124 の問題に引っかかる。
 
 ## （参考）サンプル以外に確認しておきたいログ （配役関係）
 
-* [それでも猫又大狼子狐村](http://jinrou.aa0.netvolante.jp/~jinrou/kako/49118.html  
+* [それでも猫又大狼子狐村](http://jinrou.aa0.netvolante.jp/~jinrou/kako/49118.html)  
   猫又復活がある。
 * [【黒バスRP必須】春の大狼収穫村](http://jinrou.aa0.netvolante.jp/~jinrou/kako/125849.html)  
   大狼入り。
